@@ -62,7 +62,7 @@
 
 ## About The Project
 
-This plugin sends chat messages from players to your Discord channel, enhancing communication and monitoring between the game and Discord server.
+This plugin sends chat messages from players to your Discord channel, enhancing communication and monitoring between the game and Discord server. I'm going to add more relay modules.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +141,6 @@ The addon provides several commands and console variables (convars) to customize
 ## Roadmap
 
 - [ ] Map Change Discord Message with player count (embed)
-- [ ] Announcement Discord Message (embed)
 - [ ] Announcement Discord Message (embed)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
