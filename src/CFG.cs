@@ -50,4 +50,5 @@ internal class Config
 {
 	public bool MessageRelay { get; set; }
 	public string? MessageWebhook { get; set; }
+    public string? ServerName { get; set; }
 }
