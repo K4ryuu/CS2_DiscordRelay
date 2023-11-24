@@ -35,6 +35,7 @@ internal class CFG
 		{
 			MessageRelay = true,
 			MessageWebhook = "none",
+			ServerName = "",
 		};
 
 		// Serialize the config object to JSON and write it to the file.
